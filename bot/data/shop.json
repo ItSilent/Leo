@@ -1,0 +1,38 @@
+{
+  "\ud83c\udfad": {
+    "name": "Custom Role Color",
+    "price": 5000,
+    "type": "role_color",
+    "description": "Change your role color"
+  },
+  "\ud83d\udc51": {
+    "name": "VIP Status",
+    "price": 10000,
+    "type": "vip",
+    "description": "Get VIP perks for 30 days"
+  },
+  "\ud83c\udfaa": {
+    "name": "Custom Title",
+    "price": 2500,
+    "type": "title",
+    "description": "Set a custom title that shows in rank"
+  },
+  "\ud83c\udf81": {
+    "name": "Gift Box",
+    "price": 500,
+    "type": "lootbox",
+    "description": "Random reward between 100-1000 coins"
+  },
+  "\ud83d\udee1\ufe0f": {
+    "name": "XP Boost",
+    "price": 1500,
+    "type": "xp_boost",
+    "description": "2x XP for 24 hours"
+  },
+  "\ud83c\udfaf": {
+    "name": "Daily Streak Protection",
+    "price": 800,
+    "type": "streak_shield",
+    "description": "Protect your daily streak once"
+  }
+}

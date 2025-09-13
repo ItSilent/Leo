@@ -1,0 +1,23 @@
+{
+  "1364584303169900605": {
+    "levelup_channel": 1413534276414214186,
+    "level_roles": {},
+    "xp_enabled": true,
+    "levelup_message": "\ud83c\udf89 {user_mention} leveled up to **Level {level}**! \ud83d\ude80",
+    "spam_protection": true
+  },
+  "123456789": {
+    "levelup_channel": null,
+    "level_roles": {},
+    "xp_enabled": true,
+    "levelup_message": "\ud83c\udf89 {user_mention} leveled up to **Level {level}**! \ud83d\ude80",
+    "spam_protection": true
+  },
+  "1414652227074654311": {
+    "levelup_channel": null,
+    "level_roles": {},
+    "xp_enabled": true,
+    "levelup_message": "\ud83c\udf89 {user_mention} leveled up to **Level {level}**! \ud83d\ude80",
+    "spam_protection": true
+  }
+}

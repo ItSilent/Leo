@@ -1,0 +1,24 @@
+# Discord Bot Requirements
+# Core Discord.py library
+discord.py==2.3.2
+
+# Audio processing for music functionality
+PyNaCl==1.5.0
+
+# YouTube audio extraction
+yt-dlp>=2023.7.6
+
+# HTTP requests
+requests>=2.31.0
+
+# Async support
+asyncio
+
+# Development dependencies (optional)
+# pytest>=7.4.0
+# black>=23.0.0
+# flake8>=6.0.0
+# isort>=5.12.0
+
+# Note: Install with: pip install -r requirements.txt
+# For development: pip install -r requirements.txt pytest black flake8 isort
