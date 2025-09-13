@@ -1,4 +1,4 @@
-# 🎵 Silent Bot
+# 🎵 leo Bot
 
 A comprehensive Discord bot featuring music playback, moderation tools, and entertainment commands with beautiful interactive interfaces.
 
